@@ -1,0 +1,2683 @@
+fileFormatVersion: 2
+guid: 427d62033e9c0414fafe5fc2367e1c1a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: street_spirit_ix__x1_talk_png_1354835790_0
+    21300002: street_spirit_ix__x1_talk_png_1354835790_1
+    21300004: street_spirit_ix__x1_talk_png_1354835790_2
+    21300006: street_spirit_ix__x1_talk_png_1354835790_3
+    21300008: street_spirit_ix__x1_talk_png_1354835790_4
+    21300010: street_spirit_ix__x1_talk_png_1354835790_5
+    21300012: street_spirit_ix__x1_talk_png_1354835790_6
+    21300014: street_spirit_ix__x1_talk_png_1354835790_7
+    21300016: street_spirit_ix__x1_talk_png_1354835790_8
+    21300018: street_spirit_ix__x1_talk_png_1354835790_9
+    21300020: street_spirit_ix__x1_talk_png_1354835790_10
+    21300022: street_spirit_ix__x1_talk_png_1354835790_11
+    21300024: street_spirit_ix__x1_talk_png_1354835790_12
+    21300026: street_spirit_ix__x1_talk_png_1354835790_13
+    21300028: street_spirit_ix__x1_talk_png_1354835790_14
+    21300030: street_spirit_ix__x1_talk_png_1354835790_15
+    21300032: street_spirit_ix__x1_talk_png_1354835790_16
+    21300034: street_spirit_ix__x1_talk_png_1354835790_17
+    21300036: street_spirit_ix__x1_talk_png_1354835790_18
+    21300038: street_spirit_ix__x1_talk_png_1354835790_19
+    21300040: street_spirit_ix__x1_talk_png_1354835790_20
+    21300042: street_spirit_ix__x1_talk_png_1354835790_21
+    21300044: street_spirit_ix__x1_talk_png_1354835790_22
+    21300046: street_spirit_ix__x1_talk_png_1354835790_23
+    21300048: street_spirit_ix__x1_talk_png_1354835790_24
+    21300050: street_spirit_ix__x1_talk_png_1354835790_25
+    21300052: street_spirit_ix__x1_talk_png_1354835790_26
+    21300054: street_spirit_ix__x1_talk_png_1354835790_27
+    21300056: street_spirit_ix__x1_talk_png_1354835790_28
+    21300058: street_spirit_ix__x1_talk_png_1354835790_29
+    21300060: street_spirit_ix__x1_talk_png_1354835790_30
+    21300062: street_spirit_ix__x1_talk_png_1354835790_31
+    21300064: street_spirit_ix__x1_talk_png_1354835790_32
+    21300066: street_spirit_ix__x1_talk_png_1354835790_33
+    21300068: street_spirit_ix__x1_talk_png_1354835790_34
+    21300070: street_spirit_ix__x1_talk_png_1354835790_35
+    21300072: street_spirit_ix__x1_talk_png_1354835790_36
+    21300074: street_spirit_ix__x1_talk_png_1354835790_37
+    21300076: street_spirit_ix__x1_talk_png_1354835790_38
+    21300078: street_spirit_ix__x1_talk_png_1354835790_39
+    21300080: street_spirit_ix__x1_talk_png_1354835790_40
+    21300082: street_spirit_ix__x1_talk_png_1354835790_41
+    21300084: street_spirit_ix__x1_talk_png_1354835790_42
+    21300086: street_spirit_ix__x1_talk_png_1354835790_43
+    21300088: street_spirit_ix__x1_talk_png_1354835790_44
+    21300090: street_spirit_ix__x1_talk_png_1354835790_45
+    21300092: street_spirit_ix__x1_talk_png_1354835790_46
+    21300094: street_spirit_ix__x1_talk_png_1354835790_47
+    21300096: street_spirit_ix__x1_talk_png_1354835790_48
+    21300098: street_spirit_ix__x1_talk_png_1354835790_49
+    21300100: street_spirit_ix__x1_talk_png_1354835790_50
+    21300102: street_spirit_ix__x1_talk_png_1354835790_51
+    21300104: street_spirit_ix__x1_talk_png_1354835790_52
+    21300106: street_spirit_ix__x1_talk_png_1354835790_53
+    21300108: street_spirit_ix__x1_talk_png_1354835790_54
+    21300110: street_spirit_ix__x1_talk_png_1354835790_55
+    21300112: street_spirit_ix__x1_talk_png_1354835790_56
+    21300114: street_spirit_ix__x1_talk_png_1354835790_57
+    21300116: street_spirit_ix__x1_talk_png_1354835790_58
+    21300118: street_spirit_ix__x1_talk_png_1354835790_59
+    21300120: street_spirit_ix__x1_talk_png_1354835790_60
+    21300122: street_spirit_ix__x1_talk_png_1354835790_61
+    21300124: street_spirit_ix__x1_talk_png_1354835790_62
+    21300126: street_spirit_ix__x1_talk_png_1354835790_63
+    21300128: street_spirit_ix__x1_talk_png_1354835790_64
+    21300130: street_spirit_ix__x1_talk_png_1354835790_65
+    21300132: street_spirit_ix__x1_talk_png_1354835790_66
+    21300134: street_spirit_ix__x1_talk_png_1354835790_67
+    21300136: street_spirit_ix__x1_talk_png_1354835790_68
+    21300138: street_spirit_ix__x1_talk_png_1354835790_69
+    21300140: street_spirit_ix__x1_talk_png_1354835790_70
+    21300142: street_spirit_ix__x1_talk_png_1354835790_71
+    21300144: street_spirit_ix__x1_talk_png_1354835790_72
+    21300146: street_spirit_ix__x1_talk_png_1354835790_73
+    21300148: street_spirit_ix__x1_talk_png_1354835790_74
+    21300150: street_spirit_ix__x1_talk_png_1354835790_75
+    21300152: street_spirit_ix__x1_talk_png_1354835790_76
+    21300154: street_spirit_ix__x1_talk_png_1354835790_77
+    21300156: street_spirit_ix__x1_talk_png_1354835790_78
+    21300158: street_spirit_ix__x1_talk_png_1354835790_79
+    21300160: street_spirit_ix__x1_talk_png_1354835790_80
+    21300162: street_spirit_ix__x1_talk_png_1354835790_81
+    21300164: street_spirit_ix__x1_talk_png_1354835790_82
+    21300166: street_spirit_ix__x1_talk_png_1354835790_83
+    21300168: street_spirit_ix__x1_talk_png_1354835790_84
+    21300170: street_spirit_ix__x1_talk_png_1354835790_85
+    21300172: street_spirit_ix__x1_talk_png_1354835790_86
+    21300174: street_spirit_ix__x1_talk_png_1354835790_87
+    21300176: street_spirit_ix__x1_talk_png_1354835790_88
+    21300178: street_spirit_ix__x1_talk_png_1354835790_89
+    21300180: street_spirit_ix__x1_talk_png_1354835790_90
+    21300182: street_spirit_ix__x1_talk_png_1354835790_91
+    21300184: street_spirit_ix__x1_talk_png_1354835790_92
+    21300186: street_spirit_ix__x1_talk_png_1354835790_93
+    21300188: street_spirit_ix__x1_talk_png_1354835790_94
+    21300190: street_spirit_ix__x1_talk_png_1354835790_95
+    21300192: street_spirit_ix__x1_talk_png_1354835790_96
+    21300194: street_spirit_ix__x1_talk_png_1354835790_97
+    21300196: street_spirit_ix__x1_talk_png_1354835790_98
+    21300198: street_spirit_ix__x1_talk_png_1354835790_99
+    21300200: street_spirit_ix__x1_talk_png_1354835790_100
+    21300202: street_spirit_ix__x1_talk_png_1354835790_101
+    21300204: street_spirit_ix__x1_talk_png_1354835790_102
+    21300206: street_spirit_ix__x1_talk_png_1354835790_103
+    21300208: street_spirit_ix__x1_talk_png_1354835790_104
+    21300210: street_spirit_ix__x1_talk_png_1354835790_105
+    21300212: street_spirit_ix__x1_talk_png_1354835790_106
+    21300214: street_spirit_ix__x1_talk_png_1354835790_107
+    21300216: street_spirit_ix__x1_talk_png_1354835790_108
+    21300218: street_spirit_ix__x1_talk_png_1354835790_109
+    21300220: street_spirit_ix__x1_talk_png_1354835790_110
+    21300222: street_spirit_ix__x1_talk_png_1354835790_111
+    21300224: street_spirit_ix__x1_talk_png_1354835790_112
+    21300226: street_spirit_ix__x1_talk_png_1354835790_113
+    21300228: street_spirit_ix__x1_talk_png_1354835790_114
+    21300230: street_spirit_ix__x1_talk_png_1354835790_115
+    21300232: street_spirit_ix__x1_talk_png_1354835790_116
+    21300234: street_spirit_ix__x1_talk_png_1354835790_117
+    21300236: street_spirit_ix__x1_talk_png_1354835790_118
+    21300238: street_spirit_ix__x1_talk_png_1354835790_119
+    21300240: street_spirit_ix__x1_talk_png_1354835790_120
+    21300242: street_spirit_ix__x1_talk_png_1354835790_121
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2635
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b559203c98a9a4f02ae1e6640ee35a3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 2635
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c827cadf59c44925843cdfc6218e2b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 2635
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad62dc7bfe1d04249a03712b4357a922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 2635
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96346e398d51e49a5b36ce2a72f5da43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_4
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 2635
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbe16d64e09246fbafc92600823c5df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_5
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 2635
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a59fd98ee02c45feb5b10b9b3b6d924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_6
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 2635
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ef72ad4974b4297b420a7539805d8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2480
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83513f31690e04eebb9e7ef4e5d38c2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_8
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 2480
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fb1dcae8006419cb6687dbfc5a3724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_9
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 2480
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa4df2363d6c46f0a3695a309b657b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_10
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 2480
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cafcc19ad9640388f8cf0ab9d569f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_11
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 2480
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c59e0b5fd9f4675a28afacced1dfdf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_12
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 2480
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0724ce385345842c4a883fd54b917953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_13
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 2480
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df807cad8f8943238cd251fe5495add
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2325
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdccbda407a434bb9a8e883d69d185a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_15
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 2325
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2cd864d0eab4f7daf3cf9874db89fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_16
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 2325
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8497d98cc60544b62af2954ba0f7b733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_17
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 2325
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68c6939bfa1e4ef4815d81b2fa68262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_18
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 2325
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b864261d74ae44eba40733b072d03bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_19
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 2325
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a087ef94cabd4e49947dbac62d43493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_20
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 2325
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef4e383bd1f547fa9a5fc58abcb04c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2170
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07652313902c4037834119953d7ca1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_22
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 2170
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73be9b7409e64c188de83dd010a86ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_23
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 2170
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f50688e199cf44f8a67fc7b24f3299c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_24
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 2170
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bc5d2f178a0440d94225f2bf6780e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_25
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 2170
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab0c49331d594e7cb955f01c82a58e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_26
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 2170
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949ec1f711f62491195bc5ff3d596261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_27
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 2170
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546f1ae6ef5924c3c88de6abc65dea93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2015
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639177320f796431c97db0b83de8b78e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_29
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 2015
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b286e8c7afdf4768912819a5d2485c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_30
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 2015
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9573f54a19b4f4da445892ed09ad3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_31
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 2015
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28ed2d35c9f54fa59030da57911d258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_32
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 2015
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660d7a2876d10479a9f5a7f72e191298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_33
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 2015
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5250f747e541d4b0e8a572e4b17d9633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_34
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 2015
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ddb6d25ac3e4250ba3433363446ad2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1860
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d027ac861c8704a0b9cc0726299170df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_36
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1860
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ff9d97a7df84831aea81705428272b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_37
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1860
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6499bc034bbdb415cb36c5b3e3026fbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_38
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1860
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c88c36ed6ea44fcf80ffeb3963a1ce2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_39
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1860
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aef196a728664f9b83316f7368721d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_40
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1860
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e900414acce8e4dd3a775dd641f8f487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_41
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1860
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d45c316724c947d8a3adb527b4e370b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1705
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c183a042163fa46c9a12bf43184829d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_43
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1705
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7108e75092a424c05a45222c7fba9711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_44
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1705
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29cd702b38cbe494589e916873b88b7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_45
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1705
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375f85e2f44a14bd08bb50f859ae63bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_46
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1705
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16250f275c163444f8a5cffc272c31ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_47
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1705
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2a8ebfb0a9c427ab351be25fda19d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_48
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1705
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a24114ca1cd44e2a8a5e2bac8fd4468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1550
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdf71de95b6646ffa9240413e3082e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_50
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1550
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1b9a7d932fa4ee196d4e70bbe6aa5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_51
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1550
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e830e8bbad6ab45009ff791730831672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_52
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1550
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408db28a3cbad42f587f25303c1ed6d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_53
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1550
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fa5c3a2feb64cf9959e067503cc90f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_54
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1550
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8011895adc020423fa2a46abf4e97c73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_55
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1550
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c263fd1dffc1a47e181c906c0f1bf28e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1395
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d04a210f301244d8aa634b4e46b15d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_57
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1395
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08594343c5edb4a04881d855e7c1c241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_58
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1395
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126b11f5425e84ed494406359f5f44a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_59
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1395
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13838576e835f4d6ca5fa2bb0e6b488e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_60
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1395
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b851a3c65fbce42c18e7d20e92e64ab1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_61
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1395
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5541c93c49984da38cf77864cb0e50b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_62
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1395
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8be7fa6d9f264159891b46145b89592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1240
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908c5605b08e24f70ac4f77853ce7944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_64
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1240
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cec0fbc828344ed8c198146e8d98fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_65
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1240
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15699d2ea486042618ad7626265f2d14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_66
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1240
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7f14846938f4bfb8474a14371630c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_67
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1240
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd35c793f22734da6bf827c6bbb6f005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_68
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1240
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f765cb75c1e4fdd8f8d29d5a7a122a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_69
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1240
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33eeee5000bd4016939da9ca3a92b99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1085
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32af5f3d538f44da9b83bdfc57ce55b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_71
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1085
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcc04880840c4b7a953a49562d59f99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_72
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1085
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cd3d147f2ff486f82eaa873c99305e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_73
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1085
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5130353cf95f24944b0cb06a53f88992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_74
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1085
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c6f3cd9e5144ec38a7160574cf9fd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_75
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1085
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73258400bf20642db970f94ed8a0c868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_76
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1085
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de64482b9a364a61860173395a41543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 930
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5398b1722e954f59be1f5dda99547d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_78
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 930
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777251e5b9ed04ae6bcc09852432e41e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_79
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 930
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a6b34bf58df41c9b959d8541384870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_80
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 930
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98bb526f4496450784496ff0a15c17d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_81
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 930
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68dc3239ad66649d091f7b2886a759de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_82
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 930
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e670c6ee94a894bc08aaff6741562641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_83
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 930
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bbf31247bed4122a15190ac922cfaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 775
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e3afed55ed54633b00bf5b94a64f64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_85
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 775
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec110af998cd1478ea898d452abb1fcb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_86
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 775
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef94393662f424392b92a2a8111648d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_87
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 775
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8865856be56c4d6ba9c1a2f5c51e7d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_88
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 775
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe6b81197f754680847eb2e42cc202f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_89
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 775
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf75de9f5dab14ec484a2858dc8b378b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_90
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 775
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159cf548557b5428c9be15502870747f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 620
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c746609a69a1641ce917ac474cfb33c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_92
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 620
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4267cde593e694210b250d0af20827a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_93
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 620
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a17ad35ff7424961b524dcb64024158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_94
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 620
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f577b884c29438ab4cc221bba7ed6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_95
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 620
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70525726bb55f4c85b11f20e3c7c56f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_96
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 620
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3defb3115c2504d7abccb2021a708bd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_97
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 620
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754185222b59a4f7cad33e1194947476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 465
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f45943aee4af4d3f8ec9c3d1d624573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_99
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 465
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcffda5d22214e9e8942b4ead5412ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_100
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 465
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd40f8ea94d684b65a096f91b9a4274a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_101
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 465
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd356f8c0ada4a15af54258497f9661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_102
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 465
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1325039f9834d01839fe8bf4cf3902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_103
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 465
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6d366f9239c4da9b0d95d7eef31679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_104
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 465
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ab76b87f7d54f9ca52305e2f4733e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 310
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db4292d8075b4c9fae1b17a49ad7e22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_106
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 310
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff77a18ab48e4abb9c45d4b67ab17e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_107
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 310
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1c7740d27cc4a9c904d4852cdd57d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_108
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 310
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938833182785c45f4bcc7be5a3412f66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_109
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 310
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e1e873e8a15466e8afac8d7e50dffb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_110
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 310
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc26323d6e8a4f4687e85f5c78a9e72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_111
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 310
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9daefd8bb744c44a75d832cf6c75d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 155
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438660be38636401f8858e0e0771cec1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_113
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 155
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96303283d24e04db3b571bb383b9c503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_114
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 155
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f7d2c0f326c40d0ae8be206bf04ecc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_115
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 155
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f581b8a38216346bd94ec9669c1cfd5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_116
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 155
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2529e178be3bf4dd985b7ef35fb9fce9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_117
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 155
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5a6ce3584a849949152ba04095e08b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_118
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 155
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f514828e41b0f43c39810b86626efcc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf30bd4349d04773a39ee4bc04abaf5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_120
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a3cf649ec814314aafd459d7ed6ba8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_talk_png_1354835790_121
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6115f1724e7314228af6db2613d11501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 578794a354168443b829a0b042756d25
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
