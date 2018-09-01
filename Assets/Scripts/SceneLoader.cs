@@ -9,19 +9,25 @@ public class SceneLoader : MonoBehaviour
 
     private void Start()
     {
-        //LoadNextSceneAfter();
-        Invoke("LoadNextScene", splashScreenTime);
+        LoadNextSceneAfter();
     }
 
     private void LoadNextSceneAfter()
     {
         int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
-
         if (currentSceneIndex == 0)
-        {
-            StartCoroutine(ExitSplashScreen(splashScreenTime));
-        }
+            Invoke("LoadNextScene", splashScreenTime);
     }
+
+    //private void LoadNextSceneAfter()
+    //{
+    //    int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
+
+    //    if (currentSceneIndex == 0)
+    //    {
+    //        StartCoroutine(ExitSplashScreen(splashScreenTime));
+    //    }
+    //}
 
     private IEnumerator ExitSplashScreen(float delay){
         yield return new WaitForSeconds(delay);
@@ -45,12 +51,25 @@ public class SceneLoader : MonoBehaviour
     }
 
     public void LoadFirstScene(){
-        Debug.Log("load first scene");
         SceneManager.LoadScene(0);
+    }
+
+    public void LoadFirstLevel(){
+        SceneManager.LoadScene(3);
     }
 
     public void QuitGame(){
         Application.Quit();
+    }
+
+    public void LoadWinScene()
+    {
+        SceneManager.LoadScene(4);
+    }
+
+    public void LoadLoseScene()
+    {
+        SceneManager.LoadScene(5);
     }
 
 }
