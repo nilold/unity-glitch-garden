@@ -1,26 +1,29 @@
 ﻿using System.Collections;
 using UnityEngine;
 
-public class MusicPlayer : MonoBehaviour {
+public class MusicPlayer : MonoBehaviour
+{
 
     static MusicPlayer instance = null;
     public AudioClip[] audioClip;
     private AudioSource music;
 
-	void Start () {
+    void Start()
+    {
         //if(instance != null && instance != this){
         //    Destroy(gameObject);
         //} else
         //{
-            //instance = this;
-            DontDestroyOnLoad(gameObject);
-            music = GetComponent<AudioSource>();
-            PlayMusic(audioClip[0]);
+        //instance = this;
+        DontDestroyOnLoad(gameObject);
+        music = GetComponent<AudioSource>();
+        PlayMusic(audioClip[0]);
         //}
     }
 
     private void PlayMusic(AudioClip clip)
     {
+        music.Stop();
         music.clip = clip;
         music.loop = true;
         music.Play();
@@ -28,11 +31,11 @@ public class MusicPlayer : MonoBehaviour {
 
     private void OnLevelWasLoaded(int level)
     {
-        music.Stop();
         AudioClip thisLevelClip = audioClip[level];
 
-        if(thisLevelClip)
+        if (thisLevelClip)
             PlayMusic(thisLevelClip);
+
     }
 
 }

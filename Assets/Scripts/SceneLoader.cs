@@ -46,30 +46,16 @@ public class SceneLoader : MonoBehaviour
         SceneManager.LoadScene(currentSceneIndex - 1);
     }
 
-    public void LoadLastScene(){
-        SceneManager.LoadScene(2);
-    }
-
     public void LoadFirstScene(){
         SceneManager.LoadScene(0);
     }
 
-    public void LoadFirstLevel(){
-        SceneManager.LoadScene(3);
+    public void LoadScene(string sceneName){
+        SceneManager.LoadScene(sceneName);
     }
 
     public void QuitGame(){
         Application.Quit();
-    }
-
-    public void LoadWinScene()
-    {
-        SceneManager.LoadScene(4);
-    }
-
-    public void LoadLoseScene()
-    {
-        SceneManager.LoadScene(5);
     }
 
 }
