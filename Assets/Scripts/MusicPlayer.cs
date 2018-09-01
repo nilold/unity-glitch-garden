@@ -4,22 +4,19 @@ using UnityEngine;
 public class MusicPlayer : MonoBehaviour {
 
     static MusicPlayer instance = null;
-    public AudioClip startClip;
-    public AudioClip gameClip;
-    public AudioClip endClip;
-
+    public AudioClip[] audioClip;
     private AudioSource music;
 
 	void Start () {
-        if(instance != null && instance != this){
-            Destroy(gameObject);
-        } else
-        {
-            instance = this;
-            GameObject.DontDestroyOnLoad(gameObject);
+        //if(instance != null && instance != this){
+        //    Destroy(gameObject);
+        //} else
+        //{
+            //instance = this;
+            DontDestroyOnLoad(gameObject);
             music = GetComponent<AudioSource>();
-            PlayMusic(startClip);
-        }
+            PlayMusic(audioClip[0]);
+        //}
     }
 
     private void PlayMusic(AudioClip clip)
@@ -31,21 +28,11 @@ public class MusicPlayer : MonoBehaviour {
 
     private void OnLevelWasLoaded(int level)
     {
-        Debug.Log("Music player loaded level " + level);
-
         music.Stop();
+        AudioClip thisLevelClip = audioClip[level];
 
-        AudioClip clip = null;
-
-        if(level == 0){
-            clip = startClip;
-        } else if (level == 1){
-            clip = gameClip;
-            music.volume = 0.1f;
-        } else if (level ==2){
-            clip = endClip;
-        }
-        PlayMusic(clip);
+        if(thisLevelClip)
+            PlayMusic(thisLevelClip);
     }
 
 }
