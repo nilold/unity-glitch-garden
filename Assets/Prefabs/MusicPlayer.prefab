@@ -50,9 +50,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: e1d29a806a3434abb9e66585ed1cede4, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.8
+  m_Volume: 0.25
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -64,7 +64,7 @@ AudioSource:
   MaxDistance: 500
   Pan2D: 0
   rolloffMode: 0
-  BypassEffects: 0
+  BypassEffects: 1
   BypassListenerEffects: 0
   BypassReverbZones: 0
   rolloffCustomCurve:
@@ -147,6 +147,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 709a40861c844475f8f5d01d423c6659, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startClip: {fileID: 8300000, guid: 4cb14f2c7c32b412a8779fbb1c93c825, type: 3}
-  gameClip: {fileID: 8300000, guid: 063c744fc0cab44b5997fbadbf41e3c0, type: 3}
-  endClip: {fileID: 8300000, guid: 1e97e2212e1774592baa6a085a0bca27, type: 3}
+  audioClip:
+  - {fileID: 8300000, guid: e1d29a806a3434abb9e66585ed1cede4, type: 3}
+  - {fileID: 8300000, guid: 414bd135dd54640c8a84e342da3edc5f, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 8300000, guid: 58491354a2f114236b1597e47ce36bdf, type: 3}
+  - {fileID: 8300000, guid: 7bb3ea186e07a4943a8ca3cc82173fbb, type: 3}

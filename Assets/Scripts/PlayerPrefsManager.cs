@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlayerPrefsManager : MonoBehaviour {
 
     const string MASTER_VOLUME_KEY = "master_volume";
-    const string DIFICULTY_KEY = "dificulty";
+    const string DIFFICULTY_KEY = "difficulty";
     const string LEVEL_KEY = "level_unlocked_";
 
     public static void SetMasterVolume(float volume){
@@ -45,15 +45,15 @@ public class PlayerPrefsManager : MonoBehaviour {
         return PlayerPrefs.GetInt(LEVEL_KEY + level.ToString()) == 1;
     }
 
-    public static void SetDificulty(float dificulty){
+    public static void SetDifficulty(float dificulty){
         if(dificulty >= 0f && dificulty <= 1f){
-            PlayerPrefs.SetFloat(DIFICULTY_KEY, dificulty);
+            PlayerPrefs.SetFloat(DIFFICULTY_KEY, dificulty);
         }else{
             Debug.LogError("Tried to set invalid value of dificulty: " + dificulty.ToString());
         }
     }
 
-    public static float GetDificulty(){
-        return PlayerPrefs.GetFloat(DIFICULTY_KEY);
+    public static float GetDifficulty(){
+        return PlayerPrefs.GetFloat(DIFFICULTY_KEY);
     }
 }

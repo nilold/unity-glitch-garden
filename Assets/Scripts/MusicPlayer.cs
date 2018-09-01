@@ -1,5 +1,7 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class MusicPlayer : MonoBehaviour
 {
@@ -10,15 +12,18 @@ public class MusicPlayer : MonoBehaviour
 
     void Start()
     {
-        //if(instance != null && instance != this){
-        //    Destroy(gameObject);
-        //} else
-        //{
-        //instance = this;
+        if (instance != null && instance != this)
+        {
+            Destroy(gameObject);
+        }
+        else
+        {
+        instance = this;
         DontDestroyOnLoad(gameObject);
         music = GetComponent<AudioSource>();
-        PlayMusic(audioClip[0]);
-        //}
+        setVolume(PlayerPrefsManager.GetMasterVolume());
+        PlayMusic(audioClip[SceneManager.GetActiveScene().buildIndex]);
+        }
     }
 
     private void PlayMusic(AudioClip clip)
@@ -27,6 +32,11 @@ public class MusicPlayer : MonoBehaviour
         music.clip = clip;
         music.loop = true;
         music.Play();
+    }
+
+    public void setVolume(float volume)
+    {
+        music.volume = volume;
     }
 
     private void OnLevelWasLoaded(int level)
