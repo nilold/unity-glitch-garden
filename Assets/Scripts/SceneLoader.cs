@@ -15,7 +15,7 @@ public class SceneLoader : MonoBehaviour
     private void LoadNextSceneAfter()
     {
         int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
-        if (currentSceneIndex == 0)
+        if (currentSceneIndex == 0 && splashScreenTime > 0)
             Invoke("LoadNextScene", splashScreenTime);
     }
 
