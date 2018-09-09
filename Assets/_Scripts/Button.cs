@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class Button : MonoBehaviour {
 
+    public static GameObject selectedDefender;
+    [SerializeField] GameObject defenderPrefab;
     [SerializeField] bool isSelected = false;
     Button[] allButtons;
 
@@ -22,6 +24,7 @@ public class Button : MonoBehaviour {
     {
         isSelected = true;
         gameObject.GetComponent<SpriteRenderer>().color = Color.white;
+        Button.selectedDefender = defenderPrefab;
     }
 
     private void OnMouseDown()

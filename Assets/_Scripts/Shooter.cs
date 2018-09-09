@@ -6,8 +6,9 @@ public class Shooter : MonoBehaviour
 {
 
     [SerializeField] GameObject projectile;
-    [SerializeField] GameObject projectileParent;
     [SerializeField] GameObject gun;
+
+    GameObject projectileParent;
 
     private void Start()
     {
