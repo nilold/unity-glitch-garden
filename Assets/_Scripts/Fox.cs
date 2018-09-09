@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [RequireComponent(typeof(Attacker))]
-public class Lizzard : MonoBehaviour
+public class Fox : MonoBehaviour
 {
 
     Animator animator;
@@ -12,14 +12,8 @@ public class Lizzard : MonoBehaviour
     // Use this for initialization
     void Start()
     {
-        animator = FindObjectOfType<Animator>();
+        animator = GetComponent<Animator>();
         attacker = GetComponent<Attacker>();
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
     }
 
 
@@ -29,15 +23,24 @@ public class Lizzard : MonoBehaviour
         {
             return;
         }
+
+        if (collision.GetComponent<Stone>())
+        {
+            animator.SetBool("jumpTrigger", true);
+        }
         else
         {
-            animator.SetBool("isAttacking", true);
             attacker.Attack(collision.gameObject);
+            animator.SetBool("isAttacking", true);
         }
     }
 
     private void OnTriggerExit2D(Collider2D collision)
     {
         animator.SetBool("isAttacking", false);
+        if (collision.GetComponent<Stone>())
+        {
+            animator.SetBool("jumpTrigger", false);
+        }
     }
 }
