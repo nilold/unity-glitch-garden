@@ -6,7 +6,8 @@ using UnityEngine;
 [RequireComponent(typeof(Health))]
 public class Attacker : MonoBehaviour
 {
-
+    [Tooltip ("Average number of seconds between spawns")]
+    public float seenEverySeconds;
     float currentWalkSpeed = 1f;
     GameObject currentTarget;
 
@@ -21,10 +22,9 @@ public class Attacker : MonoBehaviour
         transform.Translate(Vector3.left * currentWalkSpeed * Time.deltaTime);
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        //Debug.Log(gameObject + " ---- Collision!  ----- " + collision.gameObject);
-    }
+    //private void OnTriggerEnter2D(Collider2D collision)
+    //{
+    //}
 
     public void SetWalkSpeed(float speed)
     {

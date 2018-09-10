@@ -2,8 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-[RequireComponent(typeof(Attacker))]
-public class Lizzard : MonoBehaviour
+public class Brocolli : MonoBehaviour
 {
     Animator animator;
     Attacker attacker;

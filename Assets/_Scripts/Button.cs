@@ -9,12 +9,39 @@ public class Button : MonoBehaviour {
     [SerializeField] bool isSelected = false;
     Button[] allButtons;
 
-	void Start () {
+    public static GameObject defenderParent;
+
+	void Start ()
+    {
         allButtons = FindObjectsOfType<Button>();
-        if(!isSelected)
-            gameObject.GetComponent<SpriteRenderer>().color = Color.black;
+
+        UnSelectAll();
+
+        FindParent();
+
     }
-	
+
+    private void FindParent()
+    {
+        defenderParent = GameObject.Find("Defenders");
+        if (!defenderParent)
+        {
+            defenderParent = new GameObject("Defenders");
+        }
+    }
+
+    private void UnSelectAll()
+    {
+        if (isSelected)
+        {
+            Select();
+        }
+        else
+        {
+            UnSelect();
+        }
+    }
+
     public void UnSelect(){
         isSelected = false;
         gameObject.GetComponent<SpriteRenderer>().color = Color.black;
