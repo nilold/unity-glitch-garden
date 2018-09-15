@@ -22,6 +22,7 @@ public class DefenderSpawner : MonoBehaviour {
         Quaternion zeroRot = Quaternion.identity;
         GameObject defender = Button.selectedDefender;
         GameObject newDefender = Instantiate(defender, worldPos, zeroRot);
+
         newDefender.transform.parent = Button.defenderParent.transform;
     }
 
