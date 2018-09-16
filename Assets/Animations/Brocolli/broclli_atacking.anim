@@ -437,79 +437,86 @@ AnimationClip:
     intParameter: 0
     messageOptions: 0
   - time: 0.08196721
-    functionName: DealDamage
+    functionName: StrickeCurrentTarget
     data: 
     objectReferenceParameter: {fileID: 0}
-    floatParameter: 5
+    floatParameter: 3
     intParameter: 0
     messageOptions: 0
   - time: 0.16393442
-    functionName: DealDamage
+    functionName: StrickeCurrentTarget
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 3
     intParameter: 0
     messageOptions: 0
   - time: 0.24590164
-    functionName: DealDamage
+    functionName: StrickeCurrentTarget
     data: 
     objectReferenceParameter: {fileID: 0}
-    floatParameter: 5
+    floatParameter: 3
     intParameter: 0
     messageOptions: 0
   - time: 0.33606556
-    functionName: DealDamage
+    functionName: StrickeCurrentTarget
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 3
     intParameter: 0
     messageOptions: 0
   - time: 0.4180328
-    functionName: DealDamage
+    functionName: StrickeCurrentTarget
     data: 
     objectReferenceParameter: {fileID: 0}
-    floatParameter: 5
+    floatParameter: 3
     intParameter: 0
     messageOptions: 0
   - time: 0.5
-    functionName: DealDamage
+    functionName: StrickeCurrentTarget
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 3
     intParameter: 0
     messageOptions: 0
   - time: 0.58196723
-    functionName: DealDamage
+    functionName: StrickeCurrentTarget
     data: 
     objectReferenceParameter: {fileID: 0}
-    floatParameter: 5
+    floatParameter: 3
     intParameter: 0
     messageOptions: 0
   - time: 0.6639344
-    functionName: DealDamage
+    functionName: StrickeCurrentTarget
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 3
     intParameter: 0
     messageOptions: 0
   - time: 0.75409836
-    functionName: DealDamage
+    functionName: StrickeCurrentTarget
     data: 
     objectReferenceParameter: {fileID: 0}
-    floatParameter: 5
+    floatParameter: 3
     intParameter: 0
     messageOptions: 0
   - time: 0.8360656
-    functionName: DealDamage
+    functionName: StrickeCurrentTarget
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 3
     intParameter: 0
     messageOptions: 0
   - time: 0.91803277
-    functionName: DealDamage
+    functionName: StrickeCurrentTarget
     data: 
     objectReferenceParameter: {fileID: 0}
-    floatParameter: 5
+    floatParameter: 3
+    intParameter: 0
+    messageOptions: 0
+  - time: 1
+    functionName: StrickeCurrentTarget
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 3
     intParameter: 0
     messageOptions: 0

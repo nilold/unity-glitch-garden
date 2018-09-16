@@ -4,13 +4,15 @@ using UnityEngine;
 
 public class Defender : MonoBehaviour {
 
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
+    public int starCost = 100;
+    private StarDisplay starDisplay;
+
+    private void Start()
+    {
+        starDisplay = FindObjectOfType<StarDisplay>();
+    }
+
+    void AddStars(int starsCount){
+        starDisplay.AddStars(starsCount);
+    }
 }

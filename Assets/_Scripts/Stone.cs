@@ -4,10 +4,17 @@ using UnityEngine;
 
 public class Stone : MonoBehaviour {
 
+    Animator animator;
+
+    private void Start()
+    {
+        animator = GetComponent<Animator>();
+    }
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if(collision.GetComponent<Attacker>()){
-            GetComponent<Animator>().SetBool("isAttacked", true);
+            animator.SetBool("isUnderAttack", true);
         }
     }
 
@@ -15,7 +22,8 @@ public class Stone : MonoBehaviour {
     {
         if (collision.GetComponent<Attacker>())
         {
-            GetComponent<Animator>().SetBool("isAttacked", false);
+            animator.SetBool("isUnderAttack", false);
         }
     }
+
 }

@@ -2,24 +2,30 @@
 
 using UnityEngine;
 
-public class Spawner : MonoBehaviour {
+public class Spawner : MonoBehaviour
+{
 
     [SerializeField] GameObject[] attackerPrefabs;
+    [SerializeField] float timeBeforeSpawning = 10;
+
     int spawnerCount = 5;
 
-	
-	// Update is called once per frame
-	void Update () {
-        foreach(GameObject attackerGO in attackerPrefabs){
-            if(isTimeToSpawn(attackerGO)){
-                spawn(attackerGO);
+    // Update is called once per frame
+    void Update()
+    {
+        if (Time.timeSinceLevelLoad > timeBeforeSpawning)
+            foreach (GameObject attackerGO in attackerPrefabs)
+            {
+                if (isTimeToSpawn(attackerGO))
+                {
+                    spawn(attackerGO);
+                }
             }
-        }
-	}
+    }
 
     private void spawn(GameObject attackerGO)
     {
-        GameObject newAttacker =  Instantiate(attackerGO, gameObject.transform);
+        GameObject newAttacker = Instantiate(attackerGO, gameObject.transform);
         Debug.Log(newAttacker.name + " spawned");
         newAttacker.transform.parent = gameObject.transform;
     }

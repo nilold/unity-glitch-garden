@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+[RequireComponent(typeof(Attacker))]
 public class Brocolli : MonoBehaviour
 {
     Animator animator;
