@@ -47,10 +47,21 @@ public class GameTimer : MonoBehaviour {
         isLevelOver = true;
         audioSource.Play();
         Invoke("LoadNextLevel", audioSource.clip.length);
+        DestroyObjects();
         winLabel.SetActive(true);
     }
 
+    private static void DestroyObjects()
+    {
+        GameObject[] destroyObjects = GameObject.FindGameObjectsWithTag("DestroyOnWin");
+        foreach (GameObject go in destroyObjects)
+        {
+            Destroy(go);
+        }
+    }
+
     void LoadNextLevel(){
+        audioSource.Stop();
         sceneLoader.LoadNextScene();
     }
 }

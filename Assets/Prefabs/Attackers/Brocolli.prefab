@@ -26,7 +26,7 @@ GameObject:
   - component: {fileID: 114381415370160096}
   m_Layer: 0
   m_Name: Brocolli
-  m_TagString: Untagged
+  m_TagString: DestroyOnWin
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -128,7 +128,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 06f47df55c2ba46d88b467cc2d602081, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  seenEverySeconds: 50
+  seenEverySeconds: 40
 --- !u!114 &114381415370160096
 MonoBehaviour:
   m_ObjectHideFlags: 1
