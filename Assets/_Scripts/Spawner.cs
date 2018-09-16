@@ -6,7 +6,7 @@ public class Spawner : MonoBehaviour
 {
 
     [SerializeField] GameObject[] attackerPrefabs;
-    [SerializeField] float timeBeforeSpawning = 10;
+    [SerializeField] float timeBeforeSpawning = 0;
 
     int spawnerCount = 5;
 

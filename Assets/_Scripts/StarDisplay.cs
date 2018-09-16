@@ -7,7 +7,7 @@ public class StarDisplay : MonoBehaviour
 {
 
     Text starText;
-    int starCount = 100;
+    [SerializeField] int starCount = 100;
     public enum Status { SUCCESS, FAILURE };
 
     // Use this for initialization

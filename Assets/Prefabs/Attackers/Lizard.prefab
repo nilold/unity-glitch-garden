@@ -139,7 +139,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 06f47df55c2ba46d88b467cc2d602081, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  seenEverySeconds: 10
+  seenEverySeconds: 12
 --- !u!114 &114805003415202058
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -151,7 +151,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5484cefc638114a7eac1e529d36ee0a0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 200
+  health: 100
 --- !u!212 &212821584786819724
 SpriteRenderer:
   m_ObjectHideFlags: 1

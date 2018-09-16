@@ -210,7 +210,7 @@ GameObject:
   - component: {fileID: 114288635227865972}
   - component: {fileID: 114910555785000346}
   m_Layer: 5
-  m_Name: Text
+  m_Name: StarCount
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -876,7 +876,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fc1be088ea23b4e0599cd636619b6219, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lives: 5
+  lives: 3
 --- !u!114 &114910555785000346
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -888,6 +888,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c4a021120e5dc442883006f74d35b4c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  starCount: 80
 --- !u!114 &114967922269884802
 MonoBehaviour:
   m_ObjectHideFlags: 1
