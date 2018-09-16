@@ -1,6 +1,5 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
+using UnityEngine.UI;
 
 public class Button : MonoBehaviour {
 
@@ -9,16 +8,27 @@ public class Button : MonoBehaviour {
     [SerializeField] bool isSelected = false;
     Button[] allButtons;
 
+    private Text costText;
+
     public static GameObject defenderParent;
 
 	void Start ()
     {
         allButtons = FindObjectsOfType<Button>();
-
         UnSelectAll();
-
         FindParent();
+        SetCostText();
 
+    }
+
+    private void SetCostText()
+    {
+        costText = GetComponentInChildren<Text>();
+        if(costText){
+            costText.text = defenderPrefab.GetComponent<Defender>().starCost.ToString();
+        } else {
+            Debug.LogWarning(name + " has no costText");
+        }
     }
 
     private void FindParent()
